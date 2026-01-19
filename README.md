@@ -6,7 +6,7 @@ Développeur passionné par L'IA et la Data Science. J'aime créer des projets q
 - 🌱 J'apprends actuellement : Pydantic, FastAPI 
 - 📫 Comment me contacter : dutreuilh.guillaume@gmail.com
 
-## Technos utilisés
+## Technos & outils utilisés
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![NumPy](https://img.shields.io/badge/Numpy-yellow?style=for-the-badge&logo=numpy&logoColor=
