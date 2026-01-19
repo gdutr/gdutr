@@ -4,7 +4,6 @@ Développeur passionné par L'IA et la Data Science. J'aime créer des projets q
 
 - 🔭 Je travaille actuellement sur [fruit-manager](https://github.com/gdutr/fruit-manager)
 - 🌱 J'apprends actuellement : Pydantic, FastAPI 
-- 💬 Demandez-moi à propos de Python, Machine Learning, APIs
 - 📫 Comment me contacter : dutreuilh.guillaume@gmail.com
 
 ## Technos utilisés
