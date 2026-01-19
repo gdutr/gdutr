@@ -36,6 +36,7 @@ Développeur passionné par L'IA et la Data Science. J'aime créer des projets q
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 )](#)
+![Static Badge](https://img.shields.io/badge/Render-B1361E?style=for-the-badge&logo=render&logoColor=fff)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?style=for-the-badge&logo=latex
 )](#)
