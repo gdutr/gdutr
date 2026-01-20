@@ -22,8 +22,6 @@ Développeur passionné par L'IA et la Data Science. J'aime créer des projets q
 )](#)
 [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic
 )](#)
-[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?style=for-the-badge&logo=Jupyter
-)](#)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -34,6 +32,8 @@ Développeur passionné par L'IA et la Data Science. J'aime créer des projets q
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?style=for-the-badge&logo=Jupyter
+)](#)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black
 )](#)
@@ -55,8 +55,6 @@ Développeur passionné par L'IA et la Data Science. J'aime créer des projets q
 
 ## Réseaux :
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/guillaume-dutreuilh-/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:guippon@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/gdutr/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/guillaume-dutreuilh-/)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:guippon@gmail.com)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/gdutr)
